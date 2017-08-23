@@ -1,5 +1,6 @@
 # devops-aula02
 # Atores
 -Kevin James
--Adam Sandler
+-Chris Rock
 -David Spade
+-Shaquille O'Neal
